@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blogs/</loc>
+    <lastmod>2023-09-18T19:37:33+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/hello-world/</loc>
     <lastmod>2023-09-18T12:53:48+05:30</lastmod>
   </url>
@@ -15,14 +20,6 @@
   <url>
     <loc>/</loc>
     <lastmod>2023-09-18T12:53:48+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>
