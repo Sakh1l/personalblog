@@ -1,14 +1,16 @@
 +++
 title = "Hello World"
 date = "2023-09-18T12:53:48+05:30"
-author = ""
+author = "Sakhil"
 authorTwitter = "" #do not include @
-cover = ""
+cover = "This is a test page"
 tags = ["", ""]
 keywords = ["", ""]
-description = ""
+description = "Welcome to the blog"
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 color = "" #color from the theme settings
 +++
+
+
